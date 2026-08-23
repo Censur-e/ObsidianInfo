@@ -2,5 +2,8 @@
   "version": "V1-Test",
   "admin_list": [
     "Builderman"
-  ]
+  ],
+  "premium_serveur_placeid": [
+    "96942023158435"
+  ],
 }
